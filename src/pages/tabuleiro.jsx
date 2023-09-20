@@ -14,7 +14,7 @@ export default function Tabuleiro(){
                 <div className={styles.white}></div>
                 <div className={styles.black}></div>           
             </div>
-            <div className={styles.coluna}>
+            <div className={styles.coluna}> 
                 <div className={styles.black}></div>  
                 <div className={styles.white}></div>
                 <div className={styles.black}></div>
